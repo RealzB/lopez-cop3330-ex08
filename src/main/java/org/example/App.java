@@ -1,7 +1,7 @@
 package org.example;
 
 /*
- *  UCF COP3330 Fall 2021 Assignment 6 Solution
+ *  UCF COP3330 Fall 2021 Assignment 8 Solution
  *  Copyright 2021 Brandon Lopez
  */
 import java.util.Scanner;
